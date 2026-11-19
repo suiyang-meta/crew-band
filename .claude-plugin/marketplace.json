@@ -1,0 +1,13 @@
+{
+  "name": "crew-band",
+  "description": "输入框上方很忙的小克（Claude Code mod）",
+  "owner": {
+    "name": "suiyang-meta"
+  },
+  "plugins": [
+    {
+      "name": "crew-band",
+      "source": "./"
+    }
+  ]
+}

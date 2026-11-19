@@ -1,0 +1,10 @@
+{
+  "name": "crew-band",
+  "version": "0.3.0",
+  "description": "输入框上方那一小排的小克：走一段、停下来做整套招牌动作（变魔法、翻锅、听歌…），换状态原地无缝；一排最多三只小克，再多的 subagent 是小机器人",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "suiyang-meta"
+  }
+}
